@@ -1,2 +1,19 @@
-# 100-days-of-python
-My journey of learning Python in 100 days!
+# 💯 100 Days of Python Challenge
+
+Welcome to my 100 Days of Python journey! 🎯
+
+📅 Start Date: May 16, 2025  
+🔁 Goal: Learn Python through daily hands-on practice and build useful mini-projects.
+
+## ✅ Progress
+
+| Day |         Topic         |   
+|-----|-----------------------|
+| 01  | Basics Of Python      |
+
+## 🚀 Highlights
+- Project-based learning
+- Daily documentation
+- Topics: Python basics, OOP, data analysis, web scraping, automation, and more!
+
+Follow my journey! 🌟
