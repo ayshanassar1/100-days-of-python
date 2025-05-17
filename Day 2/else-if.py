@@ -72,5 +72,5 @@ status = "Adult" if age >= 18 else "Minor"
 print(status)
 """
 output:
-It's moderate
+Adult
 """
