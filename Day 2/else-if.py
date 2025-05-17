@@ -5,9 +5,11 @@ if (t>30):
   print("Temperature is hot")
 else:
   print("Temperature is cold")
-'''output:
+"""
+output:
 Enter temperature:36
-Temperature is hot'''
+Temperature is hot
+"""
 
 #if-elif-else statement
 x=float(input("Enter a number:"))
