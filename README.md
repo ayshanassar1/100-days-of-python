@@ -9,7 +9,12 @@ Welcome to my 100 Days of Python journey! 🎯
 
 | Day |         Topic         |   
 |-----|-----------------------|
-| 01  | Basics Of Python      |
+| 01  | Basics Of Python-I    |
+| 02  | Basics Of Python-II   |
+      |  *else-if             |  
+      |  *for-while loop      |
+      |  *string methods and  |
+      | formatting            |
 
 ## 🚀 Highlights
 - Project-based learning
